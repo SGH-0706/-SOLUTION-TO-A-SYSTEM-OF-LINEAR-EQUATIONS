@@ -14,7 +14,8 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-```
+
+```python 
 #Program to find the solution for the given linear equations.
 #Developed by: Srinithi Muthukumar
 #RegisterNumber: 212224240161
